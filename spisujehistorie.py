@@ -1,7 +1,7 @@
 import operator
 import random
 
-f=open("mecze4.txt", "w+")
+f=open("mecze.txt", "w+")
 
 def goaldiff(szanse):
     #print(szanse)
